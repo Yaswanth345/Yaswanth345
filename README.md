@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yaswanth
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently learning Data Analytics
-- 💞️ I’m looking to collaborate on Data Analysts
+- 👀 I’m interested in DevOps
+- 🌱 I’m currently learning DevOps
+- 💞️ I’m looking to collaborate on DevOps
 - 📫 How to reach me yaswanthgopi918@gmail.com
 
 <!---
